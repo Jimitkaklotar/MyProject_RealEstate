@@ -1,5 +1,5 @@
 import React from 'react'
-import text from "../assets/Review.png"
+import text from "../assets/review_image.png"
 import star from "../assets/star.png"
 import dp from "../assets/dp.png"
 import qoute from "../assets/qoute.png"
