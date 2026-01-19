@@ -1,0 +1,21 @@
+
+.styled-scroll::-webkit-scrollbar {
+  height: 10px;
+}
+
+.styled-scroll::-webkit-scrollbar-track {
+  background: #2b3e48;
+  border-radius: 9999px;
+}
+
+.styled-scroll::-webkit-scrollbar-thumb {
+  background-color: white; 
+  border-radius: 9999px;
+  border: 2px solid #1c2d37; 
+}
+
+
+.styled-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: white #2b3e48;
+}
